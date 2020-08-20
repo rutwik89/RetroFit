@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRetroFitBasicApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s_pref_file">rutwik.shende.myretrofitbasicapplication.sh_pref</string>
+    <string name="s_pref_login">rutwik.shende.login_status</string>
+    <string name="s_pref_login_name">sh_preference_name</string>
+    <string name="s_pref_login_email">sh_preference_email</string>
+    <string name="s_pref_login_created">sh_preference_date</string>
+
+</resources>
